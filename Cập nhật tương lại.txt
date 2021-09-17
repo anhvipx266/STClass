@@ -1,0 +1,2 @@
+- Bổ sung funcall BindToClose() để sử lý Remove() khi máy chủ đóng.
+- Chuyển đổi kiểu index sang bảng _property
