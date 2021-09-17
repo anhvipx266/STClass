@@ -9,3 +9,4 @@ Meta = {
     ...
   }
 }
+- Chuyển đổi cách index của các lớp từ key:lower()-> bảng _property.( Sử dụng Meta ở trên)
