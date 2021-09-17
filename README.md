@@ -1,4 +1,5 @@
-# Replicate
-* Là một đối tượng được tạo ra một lần cho Client và cho mỗi Plr ở Server.
+# ServerReplicate
+* Là một đối tượng được tạo ra cho mỗi Plr.
+* Có thể thay đổi được.
 * Cung cấp các thao tác sự kiện thay đổi, nhóm thuộc tính thay đổi đơn giản, tự động.
-* Chỉ để đọc cho Client!
+
