@@ -1,0 +1,11 @@
+- STClass:Folder->Module
+- Tạo bảng cơ sở bao gồm func, var
+- Cấu trúc Meta sử dụng cho các lớp.
+Meta = {
+  Func={
+    ...
+  },
+  Var={
+    ...
+  }
+}
