@@ -5,9 +5,15 @@
 1.1. Func\
 1.1.1. index method\
 rawindex(self,k) trả về thông qua rawget() áp dụng cho từ khóa có "_" ở đầu\
+get(self,k,v)
 1.1.1. newindex method
 rawnewindex(self,k,v) set key: _<key>\
 readonly(self,k) lỗi tham chiếu\
+rawfunc(self,k,func)
+set(self,k,v)
+setChange(self,k,v)
+---------------------------------
+
 1.1.1. index/newindex method
 readServer(self,k) lỗi tham chiếu Client\
 readClient(self,k) lỗi tham chiếu Server\
