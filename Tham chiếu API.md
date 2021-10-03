@@ -1,7 +1,7 @@
-### STClass\
-### STClass.Meta\
+## STClass
+### STClass.Meta
 
-### STClass.Meta.Func\
+### STClass.Meta.Func
 **rawindex(self,k)**\
 Trả về thông qua rawget() áp dụng cho từ khóa có "\_" ở đầu\
 **get(self,k)**\
@@ -29,4 +29,4 @@ Lỗi tham chiếu Client\
 **readClient(self,k)** \
 Lỗi tham chiếu Server\
   
-### STClass.Meta.Var\
+### STClass.Meta.Var
