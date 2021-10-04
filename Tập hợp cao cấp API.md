@@ -6,6 +6,7 @@ table **\_readonly**: chứa các khóa dạng `table[k] = true` nếu tồn t�
 ### Method
 void **Start()**: nếu tồn tại nó sẽ được gọi ngay sau setmetatable và không làm gián đoạn tập lệnh\
 [Client] void **Init(chr:Character)**: nếu tồn tại nó sẽ được gọi khi nhân vật được thêm (CharacterAdded)\
+
 ------------------------------------------------
 ## Service
 ### Property
