@@ -1,1 +1,2 @@
-Kĩ thuật metamethod k:lower()
+- Kĩ thuật metamethod k:lower()
+- Mã hóa Server/Client function riêng hai script
