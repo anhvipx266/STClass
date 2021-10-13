@@ -1,10 +1,10 @@
 site_name: STClass
-# site_description: Documentation for Knit
-# site_author: Stephen Leitnick
-# site_url: https://sleitnick.github.io/Knit/
-# repo_url: https://github.com/Sleitnick/Knit
-# repo_name: Knit
-# copyright: Copyright &copy; 2020 - 2021 Stephen Leitnick
+site_description: Documentation for STClass
+site_author: Odin
+site_url: https://anhvipx266.github.io/STClass/
+repo_url: https://github.com/anhvipx266/STClass
+repo_name: STClass
+copyright: Copyright &copy; 2021 - 2025 Odin - An
 
 nav:
   - Home: index.md
@@ -31,7 +31,6 @@ theme:
   highlightjs: true
   hljs_languages:
     - lua
-
 # extra:
 #   social:
 #     - icon: fontawesome/brands/github-alt
