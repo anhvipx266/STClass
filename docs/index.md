@@ -8,3 +8,4 @@ Nơi bạn tìm hiểu về mã nguồn, cách thức hoạt động và cách s
 5. Thể thức thông nhất, hạn chế ngoại lệ.
 6. Có thể tùy chỉnh được.
 ## Những điều cần biết
+TEst
