@@ -1,7 +1,7 @@
 #!/usr/bin/sh
 
 deploy () {
-	mkdocs main
+	mkdocs gh-deploy
 }
 
 watch () {
